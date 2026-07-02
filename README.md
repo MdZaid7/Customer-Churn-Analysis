@@ -106,7 +106,7 @@ The dashboard includes:
 ---
 
 ## Dashboard Preview
-(https://github.com/MdZaid7/Customer-Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.png)
+[Churn Analysis Dashboard](https://github.com/MdZaid7/Customer-Churn-Analysis/blob/main/Churn%20Analysis%20Dashboard.png)
 
 ---
 
